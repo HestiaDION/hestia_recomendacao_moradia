@@ -16,7 +16,6 @@
 Antes de enviar o PR, certifique-se de que cada item da lista foi revisado:
 
 - [ ] 📄 O código segue as diretrizes de estilo e está devidamente documentado.
-
 - [ ] 📊 As análises e insights gerados foram validados.
 - [ ] 📈 Os gráficos e visualizações estão precisos e claros.
 - [ ] 📦 Todas as dependências estão atualizadas (caso necessário).
